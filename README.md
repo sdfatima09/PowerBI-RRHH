@@ -34,7 +34,7 @@ Organicé el modelo, preparé medidas DAX y elegí visualizaciones para que se p
 
 ## Informe completo
 
-[**Abrir el informe en PDF**](People_Analytics_Workforce_Insights.pdf)
+[**Abrir el informe en PDF**](informe-powerbi-rrhh.pdf)
 
 ## Datos
 
