@@ -32,10 +32,6 @@ Organicé el modelo, preparé medidas DAX y elegí visualizaciones para que se p
 
 **Herramientas:** Power BI Desktop · DAX · modelado de datos · visualización · People Analytics.
 
-## Informe completo
-
-[**Abrir el informe en PDF**](informe-powerbi-rrhh.pdf)
-
 ## Datos
 
 Usé HRDataset_v14, un conjunto didáctico sobre una organización ficticia, creado por Rich Huebner y Carla Patalano y publicado en [Kaggle](https://www.kaggle.com/dsv/1572001). La ficha indica licencia [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
